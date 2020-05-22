@@ -1,0 +1,428 @@
+C:\Users\damla\Source\Repos\Prelab2\Prelab2\bin\Debug\Prelab2.exe.config
+C:\Users\damla\Source\Repos\Prelab2\Prelab2\bin\Debug\Prelab2.exe
+C:\Users\damla\Source\Repos\Prelab2\Prelab2\bin\Debug\Prelab2.pdb
+C:\Users\damla\Source\Repos\Prelab2\Prelab2\obj\Debug\Prelab2.csprojAssemblyReference.cache
+C:\Users\damla\Source\Repos\Prelab2\Prelab2\obj\Debug\Prelab2.Form1.resources
+C:\Users\damla\Source\Repos\Prelab2\Prelab2\obj\Debug\Prelab2.Properties.Resources.resources
+C:\Users\damla\Source\Repos\Prelab2\Prelab2\obj\Debug\Prelab2.csproj.GenerateResource.cache
+C:\Users\damla\Source\Repos\Prelab2\Prelab2\obj\Debug\Prelab2.csproj.CoreCompileInputs.cache
+C:\Users\damla\Source\Repos\Prelab2\Prelab2\obj\Debug\Prelab2.exe
+C:\Users\damla\Source\Repos\Prelab2\Prelab2\obj\Debug\Prelab2.pdb
+C:\Users\damla\OneDrive\Masaüstü\Prelab2\Prelab2\bin\Debug\Prelab2.exe.config
+C:\Users\damla\OneDrive\Masaüstü\Prelab2\Prelab2\bin\Debug\Prelab2.exe
+C:\Users\damla\OneDrive\Masaüstü\Prelab2\Prelab2\bin\Debug\Prelab2.pdb
+C:\Users\damla\OneDrive\Masaüstü\Prelab2\Prelab2\obj\Debug\Prelab2.csprojAssemblyReference.cache
+C:\Users\damla\OneDrive\Masaüstü\Prelab2\Prelab2\obj\Debug\Prelab2.Form1.resources
+C:\Users\damla\OneDrive\Masaüstü\Prelab2\Prelab2\obj\Debug\Prelab2.Properties.Resources.resources
+C:\Users\damla\OneDrive\Masaüstü\Prelab2\Prelab2\obj\Debug\Prelab2.csproj.GenerateResource.cache
+C:\Users\damla\OneDrive\Masaüstü\Prelab2\Prelab2\obj\Debug\Prelab2.csproj.CoreCompileInputs.cache
+C:\Users\damla\OneDrive\Masaüstü\Prelab2\Prelab2\obj\Debug\Prelab2.exe
+C:\Users\damla\OneDrive\Masaüstü\Prelab2\Prelab2\obj\Debug\Prelab2.pdb
+C:\Users\damla\OneDrive\Masaüstü\Prelab2\Prelab2\obj\Debug\Prelab2.Form2.resources
+C:\Users\damla\OneDrive\Masaüstü\Oop2\Oop Lab\Prelab2\Prelab2\bin\Debug\Prelab2.exe.config
+C:\Users\damla\OneDrive\Masaüstü\Oop2\Oop Lab\Prelab2\Prelab2\bin\Debug\Prelab2.exe
+C:\Users\damla\OneDrive\Masaüstü\Oop2\Oop Lab\Prelab2\Prelab2\bin\Debug\Prelab2.pdb
+C:\Users\damla\OneDrive\Masaüstü\Oop2\Oop Lab\Prelab2\Prelab2\obj\Debug\Prelab2.csprojAssemblyReference.cache
+C:\Users\damla\OneDrive\Masaüstü\Oop2\Oop Lab\Prelab2\Prelab2\obj\Debug\Prelab2.Form2.resources
+C:\Users\damla\OneDrive\Masaüstü\Oop2\Oop Lab\Prelab2\Prelab2\obj\Debug\Prelab2.Properties.Resources.resources
+C:\Users\damla\OneDrive\Masaüstü\Oop2\Oop Lab\Prelab2\Prelab2\obj\Debug\Prelab2.csproj.GenerateResource.cache
+C:\Users\damla\OneDrive\Masaüstü\Oop2\Oop Lab\Prelab2\Prelab2\obj\Debug\Prelab2.csproj.CoreCompileInputs.cache
+C:\Users\damla\OneDrive\Masaüstü\Oop2\Oop Lab\Prelab2\Prelab2\obj\Debug\Prelab2.exe
+C:\Users\damla\OneDrive\Masaüstü\Oop2\Oop Lab\Prelab2\Prelab2\obj\Debug\Prelab2.pdb
+C:\Users\damla\OneDrive\Masaüstü\Oop2\Oop Lab\Prelab2\Prelab2\obj\Debug\Prelab2.Form3.resources
+C:\Users\damla\OneDrive\Masaüstü\Oop2\Oop Lab\Prelab2\Prelab2\obj\Debug\Prelab2.loginForm.resources
+C:\Users\damla\OneDrive\Masaüstü\Oop2\Oop Lab\OopLabProje\Prelab2\bin\Debug\Prelab2.exe.config
+C:\Users\damla\OneDrive\Masaüstü\Oop2\Oop Lab\OopLabProje\Prelab2\bin\Debug\Prelab2.exe
+C:\Users\damla\OneDrive\Masaüstü\Oop2\Oop Lab\OopLabProje\Prelab2\bin\Debug\Prelab2.pdb
+C:\Users\damla\OneDrive\Masaüstü\Oop2\Oop Lab\OopLabProje\Prelab2\obj\Debug\Prelab2.csprojAssemblyReference.cache
+C:\Users\damla\OneDrive\Masaüstü\Oop2\Oop Lab\OopLabProje\Prelab2\obj\Debug\Prelab2.loginForm.resources
+C:\Users\damla\OneDrive\Masaüstü\Oop2\Oop Lab\OopLabProje\Prelab2\obj\Debug\Prelab2.Properties.Resources.resources
+C:\Users\damla\OneDrive\Masaüstü\Oop2\Oop Lab\OopLabProje\Prelab2\obj\Debug\Prelab2.csproj.GenerateResource.cache
+C:\Users\damla\OneDrive\Masaüstü\Oop2\Oop Lab\OopLabProje\Prelab2\obj\Debug\Prelab2.csproj.CoreCompileInputs.cache
+C:\Users\damla\OneDrive\Masaüstü\Oop2\Oop Lab\OopLabProje\Prelab2\obj\Debug\Prelab2.exe
+C:\Users\damla\OneDrive\Masaüstü\Oop2\Oop Lab\OopLabProje\Prelab2\obj\Debug\Prelab2.pdb
+C:\Users\damla\OneDrive\Masaüstü\Oop2\Oop Lab\OopLabProje\Prelab2\obj\Debug\Prelab2.SignUpForm.resources
+C:\Users\damla\OneDrive\Masaüstü\Oop2\Oop Lab\OopLabProje\Prelab2\obj\Debug\Prelab2.PersonalOrganizer.resources
+C:\Users\damla\OneDrive\Masaüstü\Oop2\Oop Lab\OopLabProje\Prelab2\obj\Debug\Prelab2.ManagementWindow.resources
+C:\Users\damla\OneDrive\Masaüstü\Oop2\Oop Lab\OopLabProje\Prelab2\obj\Debug\Prelab2.PhoneBook.resources
+C:\Users\Monster\Desktop\OopLabProje\Prelab2\bin\Debug\Prelab2.exe.config
+C:\Users\Monster\Desktop\OopLabProje\Prelab2\obj\Debug\Prelab2.exe
+C:\Users\Monster\Desktop\OopLabProje\Prelab2\obj\Debug\Prelab2.pdb
+C:\Users\Monster\Desktop\OopLabProje\Prelab2\obj\Debug\Prelab2.LoginForm.resources
+C:\Users\Monster\Desktop\OopLabProje\Prelab2\obj\Debug\Prelab2.ManagementWindow.resources
+C:\Users\Monster\Desktop\OopLabProje\Prelab2\obj\Debug\Prelab2.PersonalOrganizer.resources
+C:\Users\Monster\Desktop\OopLabProje\Prelab2\obj\Debug\Prelab2.PhoneBook.resources
+C:\Users\Monster\Desktop\OopLabProje\Prelab2\obj\Debug\Prelab2.SignUpForm.resources
+C:\Users\Monster\Desktop\OopLabProje\Prelab2\obj\Debug\Prelab2.Properties.Resources.resources
+C:\Users\Monster\Desktop\OopLabProje\Prelab2\obj\Debug\Prelab2.csproj.GenerateResource.Cache
+C:\Users\Monster\Desktop\OopLabProje\Prelab2\bin\Debug\Prelab2.exe
+C:\Users\Monster\Desktop\OopLabProje\Prelab2\bin\Debug\Prelab2.pdb
+C:\Users\Monster\Desktop\OopLabProje\Prelab2\obj\Debug\Prelab2.csprojAssemblyReference.cache
+C:\Users\Monster\Desktop\OopLabProje\Prelab2\obj\Debug\Prelab2.csproj.CoreCompileInputs.cache
+D:\2.sınıf 2.dönem\OOP2  Lab\OopLabProje\Prelab2\bin\Debug\Prelab2.exe.config
+D:\2.sınıf 2.dönem\OOP2  Lab\OopLabProje\Prelab2\bin\Debug\Prelab2.exe
+D:\2.sınıf 2.dönem\OOP2  Lab\OopLabProje\Prelab2\bin\Debug\Prelab2.pdb
+D:\2.sınıf 2.dönem\OOP2  Lab\OopLabProje\Prelab2\obj\Debug\Prelab2.csprojAssemblyReference.cache
+D:\2.sınıf 2.dönem\OOP2  Lab\OopLabProje\Prelab2\obj\Debug\Prelab2.LoginForm.resources
+D:\2.sınıf 2.dönem\OOP2  Lab\OopLabProje\Prelab2\obj\Debug\Prelab2.ManagementWindow.resources
+D:\2.sınıf 2.dönem\OOP2  Lab\OopLabProje\Prelab2\obj\Debug\Prelab2.Notes.resources
+D:\2.sınıf 2.dönem\OOP2  Lab\OopLabProje\Prelab2\obj\Debug\Prelab2.PersonalOrganizer.resources
+D:\2.sınıf 2.dönem\OOP2  Lab\OopLabProje\Prelab2\obj\Debug\Prelab2.PhoneBook.resources
+D:\2.sınıf 2.dönem\OOP2  Lab\OopLabProje\Prelab2\obj\Debug\Prelab2.SignUpForm.resources
+D:\2.sınıf 2.dönem\OOP2  Lab\OopLabProje\Prelab2\obj\Debug\Prelab2.Properties.Resources.resources
+D:\2.sınıf 2.dönem\OOP2  Lab\OopLabProje\Prelab2\obj\Debug\Prelab2.csproj.GenerateResource.cache
+D:\2.sınıf 2.dönem\OOP2  Lab\OopLabProje\Prelab2\obj\Debug\Prelab2.csproj.CoreCompileInputs.cache
+D:\2.sınıf 2.dönem\OOP2  Lab\OopLabProje\Prelab2\obj\Debug\Prelab2.exe
+D:\2.sınıf 2.dönem\OOP2  Lab\OopLabProje\Prelab2\obj\Debug\Prelab2.pdb
+C:\Users\damla\OneDrive\Masaüstü\OopLabProje\Prelab2\bin\Debug\Prelab2.exe.config
+C:\Users\damla\OneDrive\Masaüstü\OopLabProje\Prelab2\bin\Debug\Prelab2.exe
+C:\Users\damla\OneDrive\Masaüstü\OopLabProje\Prelab2\bin\Debug\Prelab2.pdb
+C:\Users\damla\OneDrive\Masaüstü\OopLabProje\Prelab2\obj\Debug\Prelab2.csprojAssemblyReference.cache
+C:\Users\damla\OneDrive\Masaüstü\OopLabProje\Prelab2\obj\Debug\Prelab2.LoginForm.resources
+C:\Users\damla\OneDrive\Masaüstü\OopLabProje\Prelab2\obj\Debug\Prelab2.ManagementWindow.resources
+C:\Users\damla\OneDrive\Masaüstü\OopLabProje\Prelab2\obj\Debug\Prelab2.Notes.resources
+C:\Users\damla\OneDrive\Masaüstü\OopLabProje\Prelab2\obj\Debug\Prelab2.PersonalOrganizer.resources
+C:\Users\damla\OneDrive\Masaüstü\OopLabProje\Prelab2\obj\Debug\Prelab2.PhoneBook.resources
+C:\Users\damla\OneDrive\Masaüstü\OopLabProje\Prelab2\obj\Debug\Prelab2.SignUpForm.resources
+C:\Users\damla\OneDrive\Masaüstü\OopLabProje\Prelab2\obj\Debug\Prelab2.Properties.Resources.resources
+C:\Users\damla\OneDrive\Masaüstü\OopLabProje\Prelab2\obj\Debug\Prelab2.csproj.GenerateResource.cache
+C:\Users\damla\OneDrive\Masaüstü\OopLabProje\Prelab2\obj\Debug\Prelab2.csproj.CoreCompileInputs.cache
+C:\Users\damla\OneDrive\Masaüstü\OopLabProje\Prelab2\obj\Debug\Prelab2.exe
+C:\Users\damla\OneDrive\Masaüstü\OopLabProje\Prelab2\obj\Debug\Prelab2.pdb
+C:\Users\ASUS\Desktop\OopLabProje\Prelab2\bin\Debug\Prelab2.exe.config
+C:\Users\ASUS\Desktop\OopLabProje\Prelab2\bin\Debug\Prelab2.exe
+C:\Users\ASUS\Desktop\OopLabProje\Prelab2\bin\Debug\Prelab2.pdb
+C:\Users\ASUS\Desktop\OopLabProje\Prelab2\obj\Debug\Prelab2.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\OopLabProje\Prelab2\obj\Debug\Prelab2.LoginForm.resources
+C:\Users\ASUS\Desktop\OopLabProje\Prelab2\obj\Debug\Prelab2.ManagementWindow.resources
+C:\Users\ASUS\Desktop\OopLabProje\Prelab2\obj\Debug\Prelab2.Notes.resources
+C:\Users\ASUS\Desktop\OopLabProje\Prelab2\obj\Debug\Prelab2.PersonalOrganizer.resources
+C:\Users\ASUS\Desktop\OopLabProje\Prelab2\obj\Debug\Prelab2.PhoneBook.resources
+C:\Users\ASUS\Desktop\OopLabProje\Prelab2\obj\Debug\Prelab2.SignUpForm.resources
+C:\Users\ASUS\Desktop\OopLabProje\Prelab2\obj\Debug\Prelab2.Properties.Resources.resources
+C:\Users\ASUS\Desktop\OopLabProje\Prelab2\obj\Debug\Prelab2.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\OopLabProje\Prelab2\obj\Debug\Prelab2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\OopLabProje\Prelab2\obj\Debug\Prelab2.exe
+C:\Users\ASUS\Desktop\OopLabProje\Prelab2\obj\Debug\Prelab2.pdb
+C:\Users\damla\OneDrive\Masaüstü\saytas\OopLabProje\Prelab2\bin\Debug\Prelab2.exe.config
+C:\Users\damla\OneDrive\Masaüstü\saytas\OopLabProje\Prelab2\bin\Debug\Prelab2.exe
+C:\Users\damla\OneDrive\Masaüstü\saytas\OopLabProje\Prelab2\bin\Debug\Prelab2.pdb
+C:\Users\damla\OneDrive\Masaüstü\saytas\OopLabProje\Prelab2\obj\Debug\Prelab2.csprojAssemblyReference.cache
+C:\Users\damla\OneDrive\Masaüstü\saytas\OopLabProje\Prelab2\obj\Debug\Prelab2.LoginForm.resources
+C:\Users\damla\OneDrive\Masaüstü\saytas\OopLabProje\Prelab2\obj\Debug\Prelab2.ManagementWindow.resources
+C:\Users\damla\OneDrive\Masaüstü\saytas\OopLabProje\Prelab2\obj\Debug\Prelab2.Notes.resources
+C:\Users\damla\OneDrive\Masaüstü\saytas\OopLabProje\Prelab2\obj\Debug\Prelab2.PersonalOrganizer.resources
+C:\Users\damla\OneDrive\Masaüstü\saytas\OopLabProje\Prelab2\obj\Debug\Prelab2.PhoneBook.resources
+C:\Users\damla\OneDrive\Masaüstü\saytas\OopLabProje\Prelab2\obj\Debug\Prelab2.SignUpForm.resources
+C:\Users\damla\OneDrive\Masaüstü\saytas\OopLabProje\Prelab2\obj\Debug\Prelab2.Properties.Resources.resources
+C:\Users\damla\OneDrive\Masaüstü\saytas\OopLabProje\Prelab2\obj\Debug\Prelab2.csproj.GenerateResource.cache
+C:\Users\damla\OneDrive\Masaüstü\saytas\OopLabProje\Prelab2\obj\Debug\Prelab2.csproj.CoreCompileInputs.cache
+C:\Users\damla\OneDrive\Masaüstü\saytas\OopLabProje\Prelab2\obj\Debug\Prelab2.exe
+C:\Users\damla\OneDrive\Masaüstü\saytas\OopLabProje\Prelab2\obj\Debug\Prelab2.pdb
+C:\Users\damla\OneDrive\Masaüstü\Oop2\Oop Lab\OopLabProje\Prelab2\obj\Debug\Prelab2.Notes.resources
+C:\Users\ASUS\Desktop\OopLabProje3\Prelab2\bin\Debug\Prelab2.exe.config
+C:\Users\ASUS\Desktop\OopLabProje3\Prelab2\bin\Debug\Prelab2.exe
+C:\Users\ASUS\Desktop\OopLabProje3\Prelab2\bin\Debug\Prelab2.pdb
+C:\Users\ASUS\Desktop\OopLabProje3\Prelab2\obj\Debug\Prelab2.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\OopLabProje3\Prelab2\obj\Debug\Prelab2.LoginForm.resources
+C:\Users\ASUS\Desktop\OopLabProje3\Prelab2\obj\Debug\Prelab2.ManagementWindow.resources
+C:\Users\ASUS\Desktop\OopLabProje3\Prelab2\obj\Debug\Prelab2.Notes.resources
+C:\Users\ASUS\Desktop\OopLabProje3\Prelab2\obj\Debug\Prelab2.PersonalOrganizer.resources
+C:\Users\ASUS\Desktop\OopLabProje3\Prelab2\obj\Debug\Prelab2.PhoneBook.resources
+C:\Users\ASUS\Desktop\OopLabProje3\Prelab2\obj\Debug\Prelab2.SignUpForm.resources
+C:\Users\ASUS\Desktop\OopLabProje3\Prelab2\obj\Debug\Prelab2.Properties.Resources.resources
+C:\Users\ASUS\Desktop\OopLabProje3\Prelab2\obj\Debug\Prelab2.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\OopLabProje3\Prelab2\obj\Debug\Prelab2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\OopLabProje3\Prelab2\obj\Debug\Prelab2.exe
+C:\Users\ASUS\Desktop\OopLabProje3\Prelab2\obj\Debug\Prelab2.pdb
+C:\Users\ASUS\Desktop\Lectures\2 - 2\OOP Lab\7\OopLabProje\Prelab2\bin\Debug\Prelab2.exe.config
+C:\Users\ASUS\Desktop\Lectures\2 - 2\OOP Lab\7\OopLabProje\Prelab2\bin\Debug\Prelab2.exe
+C:\Users\ASUS\Desktop\Lectures\2 - 2\OOP Lab\7\OopLabProje\Prelab2\bin\Debug\Prelab2.pdb
+C:\Users\ASUS\Desktop\Lectures\2 - 2\OOP Lab\7\OopLabProje\Prelab2\obj\Debug\Prelab2.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Lectures\2 - 2\OOP Lab\7\OopLabProje\Prelab2\obj\Debug\Prelab2.LoginForm.resources
+C:\Users\ASUS\Desktop\Lectures\2 - 2\OOP Lab\7\OopLabProje\Prelab2\obj\Debug\Prelab2.ManagementWindow.resources
+C:\Users\ASUS\Desktop\Lectures\2 - 2\OOP Lab\7\OopLabProje\Prelab2\obj\Debug\Prelab2.Notes.resources
+C:\Users\ASUS\Desktop\Lectures\2 - 2\OOP Lab\7\OopLabProje\Prelab2\obj\Debug\Prelab2.PersonalInformation.resources
+C:\Users\ASUS\Desktop\Lectures\2 - 2\OOP Lab\7\OopLabProje\Prelab2\obj\Debug\Prelab2.PersonalOrganizer.resources
+C:\Users\ASUS\Desktop\Lectures\2 - 2\OOP Lab\7\OopLabProje\Prelab2\obj\Debug\Prelab2.PhoneBook.resources
+C:\Users\ASUS\Desktop\Lectures\2 - 2\OOP Lab\7\OopLabProje\Prelab2\obj\Debug\Prelab2.SignUpForm.resources
+C:\Users\ASUS\Desktop\Lectures\2 - 2\OOP Lab\7\OopLabProje\Prelab2\obj\Debug\Prelab2.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Lectures\2 - 2\OOP Lab\7\OopLabProje\Prelab2\obj\Debug\Prelab2.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Lectures\2 - 2\OOP Lab\7\OopLabProje\Prelab2\obj\Debug\Prelab2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Lectures\2 - 2\OOP Lab\7\OopLabProje\Prelab2\obj\Debug\Prelab2.exe
+C:\Users\ASUS\Desktop\Lectures\2 - 2\OOP Lab\7\OopLabProje\Prelab2\obj\Debug\Prelab2.pdb
+C:\Users\damla\OneDrive\Masaüstü\OopLabProje\Prelab2\obj\Debug\Prelab2.PersonalInformation.resources
+C:\Users\damla\OneDrive\Masaüstü\saytas\OopLabProje\Prelab2\obj\Debug\Prelab2.PersonalInformation.resources
+C:\Users\Ayşe Kaya\Desktop\OopLabProje\Prelab2\bin\Debug\Prelab2.exe.config
+C:\Users\Ayşe Kaya\Desktop\OopLabProje\Prelab2\bin\Debug\Prelab2.exe
+C:\Users\Ayşe Kaya\Desktop\OopLabProje\Prelab2\bin\Debug\Prelab2.pdb
+C:\Users\Ayşe Kaya\Desktop\OopLabProje\Prelab2\obj\Debug\Prelab2.csprojAssemblyReference.cache
+C:\Users\Ayşe Kaya\Desktop\OopLabProje\Prelab2\obj\Debug\Prelab2.LoginForm.resources
+C:\Users\Ayşe Kaya\Desktop\OopLabProje\Prelab2\obj\Debug\Prelab2.ManagementWindow.resources
+C:\Users\Ayşe Kaya\Desktop\OopLabProje\Prelab2\obj\Debug\Prelab2.Notes.resources
+C:\Users\Ayşe Kaya\Desktop\OopLabProje\Prelab2\obj\Debug\Prelab2.PersonalInformation.resources
+C:\Users\Ayşe Kaya\Desktop\OopLabProje\Prelab2\obj\Debug\Prelab2.PersonalOrganizer.resources
+C:\Users\Ayşe Kaya\Desktop\OopLabProje\Prelab2\obj\Debug\Prelab2.PhoneBook.resources
+C:\Users\Ayşe Kaya\Desktop\OopLabProje\Prelab2\obj\Debug\Prelab2.SignUpForm.resources
+C:\Users\Ayşe Kaya\Desktop\OopLabProje\Prelab2\obj\Debug\Prelab2.Properties.Resources.resources
+C:\Users\Ayşe Kaya\Desktop\OopLabProje\Prelab2\obj\Debug\Prelab2.csproj.GenerateResource.cache
+C:\Users\Ayşe Kaya\Desktop\OopLabProje\Prelab2\obj\Debug\Prelab2.csproj.CoreCompileInputs.cache
+C:\Users\Ayşe Kaya\Desktop\OopLabProje\Prelab2\obj\Debug\Prelab2.exe
+C:\Users\Ayşe Kaya\Desktop\OopLabProje\Prelab2\obj\Debug\Prelab2.pdb
+C:\Users\damla\OneDrive\Masaüstü\3\Prelab2\bin\Debug\Prelab2.exe.config
+C:\Users\damla\OneDrive\Masaüstü\3\Prelab2\bin\Debug\Prelab2.exe
+C:\Users\damla\OneDrive\Masaüstü\3\Prelab2\bin\Debug\Prelab2.pdb
+C:\Users\damla\OneDrive\Masaüstü\3\Prelab2\obj\Debug\Prelab2.csprojAssemblyReference.cache
+C:\Users\damla\OneDrive\Masaüstü\3\Prelab2\obj\Debug\Prelab2.LoginForm.resources
+C:\Users\damla\OneDrive\Masaüstü\3\Prelab2\obj\Debug\Prelab2.ManagementWindow.resources
+C:\Users\damla\OneDrive\Masaüstü\3\Prelab2\obj\Debug\Prelab2.Notes.resources
+C:\Users\damla\OneDrive\Masaüstü\3\Prelab2\obj\Debug\Prelab2.PersonalInformation.resources
+C:\Users\damla\OneDrive\Masaüstü\3\Prelab2\obj\Debug\Prelab2.PersonalOrganizer.resources
+C:\Users\damla\OneDrive\Masaüstü\3\Prelab2\obj\Debug\Prelab2.PhoneBook.resources
+C:\Users\damla\OneDrive\Masaüstü\3\Prelab2\obj\Debug\Prelab2.SignUpForm.resources
+C:\Users\damla\OneDrive\Masaüstü\3\Prelab2\obj\Debug\Prelab2.Properties.Resources.resources
+C:\Users\damla\OneDrive\Masaüstü\3\Prelab2\obj\Debug\Prelab2.csproj.GenerateResource.cache
+C:\Users\damla\OneDrive\Masaüstü\3\Prelab2\obj\Debug\Prelab2.csproj.CoreCompileInputs.cache
+C:\Users\damla\OneDrive\Masaüstü\3\Prelab2\obj\Debug\Prelab2.exe
+C:\Users\damla\OneDrive\Masaüstü\3\Prelab2\obj\Debug\Prelab2.pdb
+C:\Users\damla\OneDrive\Masaüstü\5\Prelab2\obj\Debug\Prelab2.csprojAssemblyReference.cache
+C:\Users\damla\OneDrive\Masaüstü\5\Prelab2\obj\Debug\Prelab2.LoginForm.resources
+C:\Users\damla\OneDrive\Masaüstü\5\Prelab2\obj\Debug\Prelab2.ManagementWindow.resources
+C:\Users\damla\OneDrive\Masaüstü\5\Prelab2\obj\Debug\Prelab2.Notes.resources
+C:\Users\damla\OneDrive\Masaüstü\5\Prelab2\obj\Debug\Prelab2.PersonalInformation.resources
+C:\Users\damla\OneDrive\Masaüstü\5\Prelab2\obj\Debug\Prelab2.PersonalOrganizer.resources
+C:\Users\damla\OneDrive\Masaüstü\5\Prelab2\obj\Debug\Prelab2.PhoneBook.resources
+C:\Users\damla\OneDrive\Masaüstü\5\Prelab2\obj\Debug\Prelab2.SignUpForm.resources
+C:\Users\damla\OneDrive\Masaüstü\5\Prelab2\obj\Debug\Prelab2.Properties.Resources.resources
+C:\Users\damla\OneDrive\Masaüstü\5\Prelab2\obj\Debug\Prelab2.csproj.GenerateResource.cache
+C:\Users\damla\OneDrive\Masaüstü\5\Prelab2\obj\Debug\Prelab2.csproj.CoreCompileInputs.cache
+C:\Users\damla\OneDrive\Masaüstü\5\Prelab2\obj\Debug\Prelab2.exe
+C:\Users\damla\OneDrive\Masaüstü\5\Prelab2\obj\Debug\Prelab2.pdb
+C:\Users\damla\OneDrive\Masaüstü\5\Prelab2\bin\Debug\Prelab2.exe.config
+C:\Users\damla\OneDrive\Masaüstü\5\Prelab2\bin\Debug\Prelab2.exe
+C:\Users\damla\OneDrive\Masaüstü\5\Prelab2\bin\Debug\Prelab2.pdb
+C:\Users\ASUS\Desktop\OopLabProje_6\Prelab2\bin\Debug\Prelab2.exe.config
+C:\Users\ASUS\Desktop\OopLabProje_6\Prelab2\bin\Debug\Prelab2.exe
+C:\Users\ASUS\Desktop\OopLabProje_6\Prelab2\bin\Debug\Prelab2.pdb
+C:\Users\ASUS\Desktop\OopLabProje_6\Prelab2\obj\Debug\Prelab2.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\OopLabProje_6\Prelab2\obj\Debug\Prelab2.LoginForm.resources
+C:\Users\ASUS\Desktop\OopLabProje_6\Prelab2\obj\Debug\Prelab2.ManagementWindow.resources
+C:\Users\ASUS\Desktop\OopLabProje_6\Prelab2\obj\Debug\Prelab2.Notes.resources
+C:\Users\ASUS\Desktop\OopLabProje_6\Prelab2\obj\Debug\Prelab2.PersonalInformation.resources
+C:\Users\ASUS\Desktop\OopLabProje_6\Prelab2\obj\Debug\Prelab2.PersonalOrganizer.resources
+C:\Users\ASUS\Desktop\OopLabProje_6\Prelab2\obj\Debug\Prelab2.PhoneBook.resources
+C:\Users\ASUS\Desktop\OopLabProje_6\Prelab2\obj\Debug\Prelab2.SalaryCalculator.resources
+C:\Users\ASUS\Desktop\OopLabProje_6\Prelab2\obj\Debug\Prelab2.SignUpForm.resources
+C:\Users\ASUS\Desktop\OopLabProje_6\Prelab2\obj\Debug\Prelab2.Properties.Resources.resources
+C:\Users\ASUS\Desktop\OopLabProje_6\Prelab2\obj\Debug\Prelab2.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\OopLabProje_6\Prelab2\obj\Debug\Prelab2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\OopLabProje_6\Prelab2\obj\Debug\Prelab2.exe
+C:\Users\ASUS\Desktop\OopLabProje_6\Prelab2\obj\Debug\Prelab2.pdb
+C:\Users\Ayşe Kaya\Desktop\7\Prelab2\bin\Debug\Prelab2.exe.config
+C:\Users\Ayşe Kaya\Desktop\7\Prelab2\bin\Debug\Prelab2.exe
+C:\Users\Ayşe Kaya\Desktop\7\Prelab2\bin\Debug\Prelab2.pdb
+C:\Users\Ayşe Kaya\Desktop\7\Prelab2\obj\Debug\Prelab2.csprojAssemblyReference.cache
+C:\Users\Ayşe Kaya\Desktop\7\Prelab2\obj\Debug\Prelab2.LoginForm.resources
+C:\Users\Ayşe Kaya\Desktop\7\Prelab2\obj\Debug\Prelab2.ManagementWindow.resources
+C:\Users\Ayşe Kaya\Desktop\7\Prelab2\obj\Debug\Prelab2.Notes.resources
+C:\Users\Ayşe Kaya\Desktop\7\Prelab2\obj\Debug\Prelab2.PersonalInformation.resources
+C:\Users\Ayşe Kaya\Desktop\7\Prelab2\obj\Debug\Prelab2.PersonalOrganizer.resources
+C:\Users\Ayşe Kaya\Desktop\7\Prelab2\obj\Debug\Prelab2.PhoneBook.resources
+C:\Users\Ayşe Kaya\Desktop\7\Prelab2\obj\Debug\Prelab2.SalaryCalculator.resources
+C:\Users\Ayşe Kaya\Desktop\7\Prelab2\obj\Debug\Prelab2.SignUpForm.resources
+C:\Users\Ayşe Kaya\Desktop\7\Prelab2\obj\Debug\Prelab2.Properties.Resources.resources
+C:\Users\Ayşe Kaya\Desktop\7\Prelab2\obj\Debug\Prelab2.csproj.GenerateResource.cache
+C:\Users\Ayşe Kaya\Desktop\7\Prelab2\obj\Debug\Prelab2.csproj.CoreCompileInputs.cache
+C:\Users\Ayşe Kaya\Desktop\7\Prelab2\obj\Debug\Prelab2.exe
+C:\Users\Ayşe Kaya\Desktop\7\Prelab2\obj\Debug\Prelab2.pdb
+C:\Users\damla\OneDrive\Masaüstü\7\Prelab2\bin\Debug\Prelab2.exe.config
+C:\Users\damla\OneDrive\Masaüstü\7\Prelab2\bin\Debug\Prelab2.exe
+C:\Users\damla\OneDrive\Masaüstü\7\Prelab2\bin\Debug\Prelab2.pdb
+C:\Users\damla\OneDrive\Masaüstü\7\Prelab2\obj\Debug\Prelab2.csprojAssemblyReference.cache
+C:\Users\damla\OneDrive\Masaüstü\7\Prelab2\obj\Debug\Prelab2.LoginForm.resources
+C:\Users\damla\OneDrive\Masaüstü\7\Prelab2\obj\Debug\Prelab2.ManagementWindow.resources
+C:\Users\damla\OneDrive\Masaüstü\7\Prelab2\obj\Debug\Prelab2.Notes.resources
+C:\Users\damla\OneDrive\Masaüstü\7\Prelab2\obj\Debug\Prelab2.PersonalInformation.resources
+C:\Users\damla\OneDrive\Masaüstü\7\Prelab2\obj\Debug\Prelab2.PersonalOrganizer.resources
+C:\Users\damla\OneDrive\Masaüstü\7\Prelab2\obj\Debug\Prelab2.PhoneBook.resources
+C:\Users\damla\OneDrive\Masaüstü\7\Prelab2\obj\Debug\Prelab2.SalaryCalculator.resources
+C:\Users\damla\OneDrive\Masaüstü\7\Prelab2\obj\Debug\Prelab2.SignUpForm.resources
+C:\Users\damla\OneDrive\Masaüstü\7\Prelab2\obj\Debug\Prelab2.Properties.Resources.resources
+C:\Users\damla\OneDrive\Masaüstü\7\Prelab2\obj\Debug\Prelab2.csproj.GenerateResource.cache
+C:\Users\damla\OneDrive\Masaüstü\7\Prelab2\obj\Debug\Prelab2.csproj.CoreCompileInputs.cache
+C:\Users\damla\OneDrive\Masaüstü\7\Prelab2\obj\Debug\Prelab2.exe
+C:\Users\damla\OneDrive\Masaüstü\7\Prelab2\obj\Debug\Prelab2.pdb
+C:\Users\ASUS\Desktop\7\Prelab2\bin\Debug\Prelab2.exe.config
+C:\Users\ASUS\Desktop\7\Prelab2\bin\Debug\Prelab2.exe
+C:\Users\ASUS\Desktop\7\Prelab2\bin\Debug\Prelab2.pdb
+C:\Users\ASUS\Desktop\7\Prelab2\obj\Debug\Prelab2.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\7\Prelab2\obj\Debug\Prelab2.LoginForm.resources
+C:\Users\ASUS\Desktop\7\Prelab2\obj\Debug\Prelab2.ManagementWindow.resources
+C:\Users\ASUS\Desktop\7\Prelab2\obj\Debug\Prelab2.Notes.resources
+C:\Users\ASUS\Desktop\7\Prelab2\obj\Debug\Prelab2.PersonalInformation.resources
+C:\Users\ASUS\Desktop\7\Prelab2\obj\Debug\Prelab2.PersonalOrganizer.resources
+C:\Users\ASUS\Desktop\7\Prelab2\obj\Debug\Prelab2.PhoneBook.resources
+C:\Users\ASUS\Desktop\7\Prelab2\obj\Debug\Prelab2.SalaryCalculator.resources
+C:\Users\ASUS\Desktop\7\Prelab2\obj\Debug\Prelab2.SignUpForm.resources
+C:\Users\ASUS\Desktop\7\Prelab2\obj\Debug\Prelab2.Properties.Resources.resources
+C:\Users\ASUS\Desktop\7\Prelab2\obj\Debug\Prelab2.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\7\Prelab2\obj\Debug\Prelab2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\7\Prelab2\obj\Debug\Prelab2.exe
+C:\Users\ASUS\Desktop\7\Prelab2\obj\Debug\Prelab2.pdb
+C:\Users\damla\OneDrive\Masaüstü\19_20_spring_OOP2_18\Prelab2\bin\Debug\Prelab2.exe.config
+C:\Users\damla\OneDrive\Masaüstü\19_20_spring_OOP2_18\Prelab2\bin\Debug\Prelab2.exe
+C:\Users\damla\OneDrive\Masaüstü\19_20_spring_OOP2_18\Prelab2\bin\Debug\Prelab2.pdb
+C:\Users\damla\OneDrive\Masaüstü\19_20_spring_OOP2_18\Prelab2\obj\Debug\Prelab2.csprojAssemblyReference.cache
+C:\Users\damla\OneDrive\Masaüstü\19_20_spring_OOP2_18\Prelab2\obj\Debug\Prelab2.LoginForm.resources
+C:\Users\damla\OneDrive\Masaüstü\19_20_spring_OOP2_18\Prelab2\obj\Debug\Prelab2.ManagementWindow.resources
+C:\Users\damla\OneDrive\Masaüstü\19_20_spring_OOP2_18\Prelab2\obj\Debug\Prelab2.Notes.resources
+C:\Users\damla\OneDrive\Masaüstü\19_20_spring_OOP2_18\Prelab2\obj\Debug\Prelab2.PersonalInformation.resources
+C:\Users\damla\OneDrive\Masaüstü\19_20_spring_OOP2_18\Prelab2\obj\Debug\Prelab2.PersonalOrganizer.resources
+C:\Users\damla\OneDrive\Masaüstü\19_20_spring_OOP2_18\Prelab2\obj\Debug\Prelab2.PhoneBook.resources
+C:\Users\damla\OneDrive\Masaüstü\19_20_spring_OOP2_18\Prelab2\obj\Debug\Prelab2.SalaryCalculator.resources
+C:\Users\damla\OneDrive\Masaüstü\19_20_spring_OOP2_18\Prelab2\obj\Debug\Prelab2.SignUpForm.resources
+C:\Users\damla\OneDrive\Masaüstü\19_20_spring_OOP2_18\Prelab2\obj\Debug\Prelab2.Properties.Resources.resources
+C:\Users\damla\OneDrive\Masaüstü\19_20_spring_OOP2_18\Prelab2\obj\Debug\Prelab2.csproj.GenerateResource.cache
+C:\Users\damla\OneDrive\Masaüstü\19_20_spring_OOP2_18\Prelab2\obj\Debug\Prelab2.csproj.CoreCompileInputs.cache
+C:\Users\damla\OneDrive\Masaüstü\19_20_spring_OOP2_18\Prelab2\obj\Debug\Prelab2.exe
+C:\Users\damla\OneDrive\Masaüstü\19_20_spring_OOP2_18\Prelab2\obj\Debug\Prelab2.pdb
+C:\Users\Ayşe Kaya\Desktop\19_20_spring_OOP2_18\Prelab2\bin\Debug\Prelab2.exe.config
+C:\Users\Ayşe Kaya\Desktop\19_20_spring_OOP2_18\Prelab2\bin\Debug\Prelab2.exe
+C:\Users\Ayşe Kaya\Desktop\19_20_spring_OOP2_18\Prelab2\bin\Debug\Prelab2.pdb
+C:\Users\Ayşe Kaya\Desktop\19_20_spring_OOP2_18\Prelab2\obj\Debug\Prelab2.csprojAssemblyReference.cache
+C:\Users\Ayşe Kaya\Desktop\19_20_spring_OOP2_18\Prelab2\obj\Debug\Prelab2.AddReminder.resources
+C:\Users\Ayşe Kaya\Desktop\19_20_spring_OOP2_18\Prelab2\obj\Debug\Prelab2.LoginForm.resources
+C:\Users\Ayşe Kaya\Desktop\19_20_spring_OOP2_18\Prelab2\obj\Debug\Prelab2.ManagementWindow.resources
+C:\Users\Ayşe Kaya\Desktop\19_20_spring_OOP2_18\Prelab2\obj\Debug\Prelab2.Notes.resources
+C:\Users\Ayşe Kaya\Desktop\19_20_spring_OOP2_18\Prelab2\obj\Debug\Prelab2.PersonalInformation.resources
+C:\Users\Ayşe Kaya\Desktop\19_20_spring_OOP2_18\Prelab2\obj\Debug\Prelab2.PersonalOrganizer.resources
+C:\Users\Ayşe Kaya\Desktop\19_20_spring_OOP2_18\Prelab2\obj\Debug\Prelab2.PhoneBook.resources
+C:\Users\Ayşe Kaya\Desktop\19_20_spring_OOP2_18\Prelab2\obj\Debug\Prelab2.Reminder.resources
+C:\Users\Ayşe Kaya\Desktop\19_20_spring_OOP2_18\Prelab2\obj\Debug\Prelab2.SalaryCalculator.resources
+C:\Users\Ayşe Kaya\Desktop\19_20_spring_OOP2_18\Prelab2\obj\Debug\Prelab2.SignUpForm.resources
+C:\Users\Ayşe Kaya\Desktop\19_20_spring_OOP2_18\Prelab2\obj\Debug\Prelab2.Properties.Resources.resources
+C:\Users\Ayşe Kaya\Desktop\19_20_spring_OOP2_18\Prelab2\obj\Debug\Prelab2.csproj.GenerateResource.cache
+C:\Users\Ayşe Kaya\Desktop\19_20_spring_OOP2_18\Prelab2\obj\Debug\Prelab2.csproj.CoreCompileInputs.cache
+C:\Users\Ayşe Kaya\Desktop\19_20_spring_OOP2_18\Prelab2\obj\Debug\Prelab2.exe
+C:\Users\Ayşe Kaya\Desktop\19_20_spring_OOP2_18\Prelab2\obj\Debug\Prelab2.pdb
+C:\Users\damla\OneDrive\Masaüstü\19_20_spring_OOP2_18\Prelab2\obj\Debug\Prelab2.AddReminder.resources
+C:\Users\damla\OneDrive\Masaüstü\19_20_spring_OOP2_18\Prelab2\obj\Debug\Prelab2.Reminder.resources
+C:\Users\Ayşe Kaya\Desktop\19_20_spring_OOP2_18 (15)\19_20_spring_OOP2_18\Prelab2\bin\Debug\Prelab2.exe.config
+C:\Users\Ayşe Kaya\Desktop\19_20_spring_OOP2_18 (15)\19_20_spring_OOP2_18\Prelab2\bin\Debug\Prelab2.exe
+C:\Users\Ayşe Kaya\Desktop\19_20_spring_OOP2_18 (15)\19_20_spring_OOP2_18\Prelab2\bin\Debug\Prelab2.pdb
+C:\Users\Ayşe Kaya\Desktop\19_20_spring_OOP2_18 (15)\19_20_spring_OOP2_18\Prelab2\obj\Debug\Prelab2.csprojAssemblyReference.cache
+C:\Users\Ayşe Kaya\Desktop\19_20_spring_OOP2_18 (15)\19_20_spring_OOP2_18\Prelab2\obj\Debug\Prelab2.AddReminder.resources
+C:\Users\Ayşe Kaya\Desktop\19_20_spring_OOP2_18 (15)\19_20_spring_OOP2_18\Prelab2\obj\Debug\Prelab2.LoginForm.resources
+C:\Users\Ayşe Kaya\Desktop\19_20_spring_OOP2_18 (15)\19_20_spring_OOP2_18\Prelab2\obj\Debug\Prelab2.ManagementWindow.resources
+C:\Users\Ayşe Kaya\Desktop\19_20_spring_OOP2_18 (15)\19_20_spring_OOP2_18\Prelab2\obj\Debug\Prelab2.Notes.resources
+C:\Users\Ayşe Kaya\Desktop\19_20_spring_OOP2_18 (15)\19_20_spring_OOP2_18\Prelab2\obj\Debug\Prelab2.PersonalInformation.resources
+C:\Users\Ayşe Kaya\Desktop\19_20_spring_OOP2_18 (15)\19_20_spring_OOP2_18\Prelab2\obj\Debug\Prelab2.PersonalOrganizer.resources
+C:\Users\Ayşe Kaya\Desktop\19_20_spring_OOP2_18 (15)\19_20_spring_OOP2_18\Prelab2\obj\Debug\Prelab2.PhoneBook.resources
+C:\Users\Ayşe Kaya\Desktop\19_20_spring_OOP2_18 (15)\19_20_spring_OOP2_18\Prelab2\obj\Debug\Prelab2.Reminder.resources
+C:\Users\Ayşe Kaya\Desktop\19_20_spring_OOP2_18 (15)\19_20_spring_OOP2_18\Prelab2\obj\Debug\Prelab2.SalaryCalculator.resources
+C:\Users\Ayşe Kaya\Desktop\19_20_spring_OOP2_18 (15)\19_20_spring_OOP2_18\Prelab2\obj\Debug\Prelab2.SignUpForm.resources
+C:\Users\Ayşe Kaya\Desktop\19_20_spring_OOP2_18 (15)\19_20_spring_OOP2_18\Prelab2\obj\Debug\Prelab2.Properties.Resources.resources
+C:\Users\Ayşe Kaya\Desktop\19_20_spring_OOP2_18 (15)\19_20_spring_OOP2_18\Prelab2\obj\Debug\Prelab2.reminderContent.resources
+C:\Users\Ayşe Kaya\Desktop\19_20_spring_OOP2_18 (15)\19_20_spring_OOP2_18\Prelab2\obj\Debug\Prelab2.csproj.GenerateResource.cache
+C:\Users\Ayşe Kaya\Desktop\19_20_spring_OOP2_18 (15)\19_20_spring_OOP2_18\Prelab2\obj\Debug\Prelab2.csproj.CoreCompileInputs.cache
+C:\Users\Ayşe Kaya\Desktop\19_20_spring_OOP2_18 (15)\19_20_spring_OOP2_18\Prelab2\obj\Debug\Prelab2.exe
+C:\Users\Ayşe Kaya\Desktop\19_20_spring_OOP2_18 (15)\19_20_spring_OOP2_18\Prelab2\obj\Debug\Prelab2.pdb
+C:\Users\Ayşe Kaya\Desktop\19_20_spring_OOP2_18\Prelab2\obj\Debug\Prelab2.reminderContent.resources
+C:\Users\damla\OneDrive\Masaüstü\S\Prelab2\bin\Debug\Prelab2.exe.config
+C:\Users\damla\OneDrive\Masaüstü\S\Prelab2\bin\Debug\Prelab2.exe
+C:\Users\damla\OneDrive\Masaüstü\S\Prelab2\bin\Debug\Prelab2.pdb
+C:\Users\damla\OneDrive\Masaüstü\S\Prelab2\obj\Debug\Prelab2.csprojAssemblyReference.cache
+C:\Users\damla\OneDrive\Masaüstü\S\Prelab2\obj\Debug\Prelab2.AddReminder.resources
+C:\Users\damla\OneDrive\Masaüstü\S\Prelab2\obj\Debug\Prelab2.LoginForm.resources
+C:\Users\damla\OneDrive\Masaüstü\S\Prelab2\obj\Debug\Prelab2.ManagementWindow.resources
+C:\Users\damla\OneDrive\Masaüstü\S\Prelab2\obj\Debug\Prelab2.Notes.resources
+C:\Users\damla\OneDrive\Masaüstü\S\Prelab2\obj\Debug\Prelab2.PersonalInformation.resources
+C:\Users\damla\OneDrive\Masaüstü\S\Prelab2\obj\Debug\Prelab2.PersonalOrganizer.resources
+C:\Users\damla\OneDrive\Masaüstü\S\Prelab2\obj\Debug\Prelab2.PhoneBook.resources
+C:\Users\damla\OneDrive\Masaüstü\S\Prelab2\obj\Debug\Prelab2.Reminder.resources
+C:\Users\damla\OneDrive\Masaüstü\S\Prelab2\obj\Debug\Prelab2.SalaryCalculator.resources
+C:\Users\damla\OneDrive\Masaüstü\S\Prelab2\obj\Debug\Prelab2.SignUpForm.resources
+C:\Users\damla\OneDrive\Masaüstü\S\Prelab2\obj\Debug\Prelab2.Properties.Resources.resources
+C:\Users\damla\OneDrive\Masaüstü\S\Prelab2\obj\Debug\Prelab2.reminderContent.resources
+C:\Users\damla\OneDrive\Masaüstü\S\Prelab2\obj\Debug\Prelab2.csproj.GenerateResource.cache
+C:\Users\damla\OneDrive\Masaüstü\S\Prelab2\obj\Debug\Prelab2.csproj.CoreCompileInputs.cache
+C:\Users\damla\OneDrive\Masaüstü\S\Prelab2\obj\Debug\Prelab2.exe
+C:\Users\damla\OneDrive\Masaüstü\S\Prelab2\obj\Debug\Prelab2.pdb
+C:\Users\Ayşe Kaya\Desktop\S\Prelab2\bin\Debug\Prelab2.exe.config
+C:\Users\Ayşe Kaya\Desktop\S\Prelab2\bin\Debug\Prelab2.exe
+C:\Users\Ayşe Kaya\Desktop\S\Prelab2\bin\Debug\Prelab2.pdb
+C:\Users\Ayşe Kaya\Desktop\S\Prelab2\obj\Debug\Prelab2.csprojAssemblyReference.cache
+C:\Users\Ayşe Kaya\Desktop\S\Prelab2\obj\Debug\Prelab2.AddReminder.resources
+C:\Users\Ayşe Kaya\Desktop\S\Prelab2\obj\Debug\Prelab2.LoginForm.resources
+C:\Users\Ayşe Kaya\Desktop\S\Prelab2\obj\Debug\Prelab2.ManagementWindow.resources
+C:\Users\Ayşe Kaya\Desktop\S\Prelab2\obj\Debug\Prelab2.Notes.resources
+C:\Users\Ayşe Kaya\Desktop\S\Prelab2\obj\Debug\Prelab2.PersonalInformation.resources
+C:\Users\Ayşe Kaya\Desktop\S\Prelab2\obj\Debug\Prelab2.PersonalOrganizer.resources
+C:\Users\Ayşe Kaya\Desktop\S\Prelab2\obj\Debug\Prelab2.PhoneBook.resources
+C:\Users\Ayşe Kaya\Desktop\S\Prelab2\obj\Debug\Prelab2.Reminder.resources
+C:\Users\Ayşe Kaya\Desktop\S\Prelab2\obj\Debug\Prelab2.SalaryCalculator.resources
+C:\Users\Ayşe Kaya\Desktop\S\Prelab2\obj\Debug\Prelab2.SignUpForm.resources
+C:\Users\Ayşe Kaya\Desktop\S\Prelab2\obj\Debug\Prelab2.Properties.Resources.resources
+C:\Users\Ayşe Kaya\Desktop\S\Prelab2\obj\Debug\Prelab2.reminderContent.resources
+C:\Users\Ayşe Kaya\Desktop\S\Prelab2\obj\Debug\Prelab2.csproj.GenerateResource.cache
+C:\Users\Ayşe Kaya\Desktop\S\Prelab2\obj\Debug\Prelab2.csproj.CoreCompileInputs.cache
+C:\Users\Ayşe Kaya\Desktop\S\Prelab2\obj\Debug\Prelab2.exe
+C:\Users\Ayşe Kaya\Desktop\S\Prelab2\obj\Debug\Prelab2.pdb
+C:\Users\damla\OneDrive\Masaüstü\A\Prelab2\bin\Debug\Prelab2.exe.config
+C:\Users\damla\OneDrive\Masaüstü\A\Prelab2\bin\Debug\Prelab2.exe
+C:\Users\damla\OneDrive\Masaüstü\A\Prelab2\bin\Debug\Prelab2.pdb
+C:\Users\damla\OneDrive\Masaüstü\A\Prelab2\obj\Debug\Prelab2.csprojAssemblyReference.cache
+C:\Users\damla\OneDrive\Masaüstü\A\Prelab2\obj\Debug\Prelab2.AddReminder.resources
+C:\Users\damla\OneDrive\Masaüstü\A\Prelab2\obj\Debug\Prelab2.LoginForm.resources
+C:\Users\damla\OneDrive\Masaüstü\A\Prelab2\obj\Debug\Prelab2.ManagementWindow.resources
+C:\Users\damla\OneDrive\Masaüstü\A\Prelab2\obj\Debug\Prelab2.Notes.resources
+C:\Users\damla\OneDrive\Masaüstü\A\Prelab2\obj\Debug\Prelab2.PersonalInformation.resources
+C:\Users\damla\OneDrive\Masaüstü\A\Prelab2\obj\Debug\Prelab2.PersonalOrganizer.resources
+C:\Users\damla\OneDrive\Masaüstü\A\Prelab2\obj\Debug\Prelab2.PhoneBook.resources
+C:\Users\damla\OneDrive\Masaüstü\A\Prelab2\obj\Debug\Prelab2.Reminder.resources
+C:\Users\damla\OneDrive\Masaüstü\A\Prelab2\obj\Debug\Prelab2.SalaryCalculator.resources
+C:\Users\damla\OneDrive\Masaüstü\A\Prelab2\obj\Debug\Prelab2.SignUpForm.resources
+C:\Users\damla\OneDrive\Masaüstü\A\Prelab2\obj\Debug\Prelab2.Properties.Resources.resources
+C:\Users\damla\OneDrive\Masaüstü\A\Prelab2\obj\Debug\Prelab2.csproj.GenerateResource.cache
+C:\Users\damla\OneDrive\Masaüstü\A\Prelab2\obj\Debug\Prelab2.csproj.CoreCompileInputs.cache
+C:\Users\damla\OneDrive\Masaüstü\A\Prelab2\obj\Debug\Prelab2.exe
+C:\Users\damla\OneDrive\Masaüstü\A\Prelab2\obj\Debug\Prelab2.pdb
+C:\Users\Ayşe Kaya\Desktop\A\Prelab2\bin\Debug\Prelab2.exe.config
+C:\Users\Ayşe Kaya\Desktop\A\Prelab2\bin\Debug\Prelab2.exe
+C:\Users\Ayşe Kaya\Desktop\A\Prelab2\bin\Debug\Prelab2.pdb
+C:\Users\Ayşe Kaya\Desktop\A\Prelab2\obj\Debug\Prelab2.csprojAssemblyReference.cache
+C:\Users\Ayşe Kaya\Desktop\A\Prelab2\obj\Debug\Prelab2.AddReminder.resources
+C:\Users\Ayşe Kaya\Desktop\A\Prelab2\obj\Debug\Prelab2.LoginForm.resources
+C:\Users\Ayşe Kaya\Desktop\A\Prelab2\obj\Debug\Prelab2.ManagementWindow.resources
+C:\Users\Ayşe Kaya\Desktop\A\Prelab2\obj\Debug\Prelab2.Notes.resources
+C:\Users\Ayşe Kaya\Desktop\A\Prelab2\obj\Debug\Prelab2.PersonalInformation.resources
+C:\Users\Ayşe Kaya\Desktop\A\Prelab2\obj\Debug\Prelab2.PersonalOrganizer.resources
+C:\Users\Ayşe Kaya\Desktop\A\Prelab2\obj\Debug\Prelab2.PhoneBook.resources
+C:\Users\Ayşe Kaya\Desktop\A\Prelab2\obj\Debug\Prelab2.Reminder.resources
+C:\Users\Ayşe Kaya\Desktop\A\Prelab2\obj\Debug\Prelab2.SalaryCalculator.resources
+C:\Users\Ayşe Kaya\Desktop\A\Prelab2\obj\Debug\Prelab2.SignUpForm.resources
+C:\Users\Ayşe Kaya\Desktop\A\Prelab2\obj\Debug\Prelab2.Properties.Resources.resources
+C:\Users\Ayşe Kaya\Desktop\A\Prelab2\obj\Debug\Prelab2.reminderContent.resources
+C:\Users\Ayşe Kaya\Desktop\A\Prelab2\obj\Debug\Prelab2.csproj.GenerateResource.cache
+C:\Users\Ayşe Kaya\Desktop\A\Prelab2\obj\Debug\Prelab2.csproj.CoreCompileInputs.cache
+C:\Users\Ayşe Kaya\Desktop\A\Prelab2\obj\Debug\Prelab2.exe
+C:\Users\Ayşe Kaya\Desktop\A\Prelab2\obj\Debug\Prelab2.pdb
+C:\Users\damla\OneDrive\Masaüstü\2.sınıf 2.dönem\Oop2\Oop Lab\19_20_spring_OOP2_18\Prelab2\bin\Debug\Prelab2.exe.config
+C:\Users\damla\OneDrive\Masaüstü\2.sınıf 2.dönem\Oop2\Oop Lab\19_20_spring_OOP2_18\Prelab2\bin\Debug\Prelab2.exe
+C:\Users\damla\OneDrive\Masaüstü\2.sınıf 2.dönem\Oop2\Oop Lab\19_20_spring_OOP2_18\Prelab2\bin\Debug\Prelab2.pdb
+C:\Users\damla\OneDrive\Masaüstü\2.sınıf 2.dönem\Oop2\Oop Lab\19_20_spring_OOP2_18\Prelab2\obj\Debug\Prelab2.csprojAssemblyReference.cache
+C:\Users\damla\OneDrive\Masaüstü\2.sınıf 2.dönem\Oop2\Oop Lab\19_20_spring_OOP2_18\Prelab2\obj\Debug\Prelab2.AddReminder.resources
+C:\Users\damla\OneDrive\Masaüstü\2.sınıf 2.dönem\Oop2\Oop Lab\19_20_spring_OOP2_18\Prelab2\obj\Debug\Prelab2.LoginForm.resources
+C:\Users\damla\OneDrive\Masaüstü\2.sınıf 2.dönem\Oop2\Oop Lab\19_20_spring_OOP2_18\Prelab2\obj\Debug\Prelab2.ManagementWindow.resources
+C:\Users\damla\OneDrive\Masaüstü\2.sınıf 2.dönem\Oop2\Oop Lab\19_20_spring_OOP2_18\Prelab2\obj\Debug\Prelab2.Notes.resources
+C:\Users\damla\OneDrive\Masaüstü\2.sınıf 2.dönem\Oop2\Oop Lab\19_20_spring_OOP2_18\Prelab2\obj\Debug\Prelab2.PersonalInformation.resources
+C:\Users\damla\OneDrive\Masaüstü\2.sınıf 2.dönem\Oop2\Oop Lab\19_20_spring_OOP2_18\Prelab2\obj\Debug\Prelab2.PersonalOrganizer.resources
+C:\Users\damla\OneDrive\Masaüstü\2.sınıf 2.dönem\Oop2\Oop Lab\19_20_spring_OOP2_18\Prelab2\obj\Debug\Prelab2.PhoneBook.resources
+C:\Users\damla\OneDrive\Masaüstü\2.sınıf 2.dönem\Oop2\Oop Lab\19_20_spring_OOP2_18\Prelab2\obj\Debug\Prelab2.Reminder.resources
+C:\Users\damla\OneDrive\Masaüstü\2.sınıf 2.dönem\Oop2\Oop Lab\19_20_spring_OOP2_18\Prelab2\obj\Debug\Prelab2.SalaryCalculator.resources
+C:\Users\damla\OneDrive\Masaüstü\2.sınıf 2.dönem\Oop2\Oop Lab\19_20_spring_OOP2_18\Prelab2\obj\Debug\Prelab2.SignUpForm.resources
+C:\Users\damla\OneDrive\Masaüstü\2.sınıf 2.dönem\Oop2\Oop Lab\19_20_spring_OOP2_18\Prelab2\obj\Debug\Prelab2.Properties.Resources.resources
+C:\Users\damla\OneDrive\Masaüstü\2.sınıf 2.dönem\Oop2\Oop Lab\19_20_spring_OOP2_18\Prelab2\obj\Debug\Prelab2.csproj.GenerateResource.cache
+C:\Users\damla\OneDrive\Masaüstü\2.sınıf 2.dönem\Oop2\Oop Lab\19_20_spring_OOP2_18\Prelab2\obj\Debug\Prelab2.csproj.CoreCompileInputs.cache
+C:\Users\damla\OneDrive\Masaüstü\2.sınıf 2.dönem\Oop2\Oop Lab\19_20_spring_OOP2_18\Prelab2\obj\Debug\Prelab2.exe
+C:\Users\damla\OneDrive\Masaüstü\2.sınıf 2.dönem\Oop2\Oop Lab\19_20_spring_OOP2_18\Prelab2\obj\Debug\Prelab2.pdb
