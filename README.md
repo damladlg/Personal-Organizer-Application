@@ -45,9 +45,9 @@ Tasks;
 An administrator will be able to send a new password to users’ e-mail  o Show a progress bar while e-mail sending. 
 Show a warning message to ask “really want to exit” on the close button(X) clicked 
 
-## Project Members:
-       1. Ayşe KAYA
-       2. @damladlg
-       3. @pinarkizilarslan
+        Project Members:
+                   Pınar Kızılarslan
+                   Damla Dalgıç
+                   Ayşe Kaya
        
     
